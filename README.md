@@ -1,12 +1,53 @@
-# React + Vite
+# 🚀 Fc
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A sleek and minimal React project built with **Vite**, styled using **Tailwind CSS**, and enhanced with **shadcn/ui** components. Perfect for rapid prototyping and modern frontend development.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## ✨ Features
 
-## Expanding the ESLint configuration
+- ⚛️ React + Vite for blazing-fast dev experience
+- 🎨 Tailwind CSS for utility-first styling
+- 🧱 shadcn/ui for accessible, stylish components
+- 🧹 ESLint for linting and code quality
+- ☁️ Ready for deployment on Netlify
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+## 🧰 Tech Stack
+
+```txt
+
+## 🧰 Tech Stack
+
+| Layer              | Technology |
+|-------------------|------------|
+| 📦 Package Manager | [**npm**](https://www.npmjs.com/) |
+| ⚛️ Frontend        | [**React**](https://reactjs.org/) |
+| ⚙️ Build Tool       | [**Vite**](https://vitejs.dev/) |
+| 🎨 Styling         | [**Tailwind CSS**](https://tailwindcss.com/) |
+| 🧩 Component UI    | [**shadcn/ui**](https://ui.shadcn.com/) |
+| ☁️ Hosting         | [**Netlify**](https://netlify.com/) |
+
+---
+
+
+
+## 📦 Plugins Used
+
+- [`@vitejs/plugin-react`](https://github.com/vitejs/vite-plugin-react): Uses **Babel** for Fast Refresh
+- [`@vitejs/plugin-react-swc`](https://github.com/vitejs/vite-plugin-react/tree/main/packages/plugin-react-swc): Uses **SWC** for faster builds
+
+
+
+---
+
+```bash
+
+# Install dependencies
+npm i
+
+# Start dev server
+npm run dev
+
+```
