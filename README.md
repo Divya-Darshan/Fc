@@ -16,7 +16,7 @@ A sleek and minimal React project built with **Vite**, styled using **Tailwind C
 
 ## 🧰 Tech Stack
 
-```txt
+
 
 ## 🧰 Tech Stack
 
