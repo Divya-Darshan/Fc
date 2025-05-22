@@ -14,9 +14,6 @@ A sleek and minimal React project built with **Vite**, styled using **Tailwind C
 
 ---
 
-## 🧰 Tech Stack
-
-
 
 ## 🧰 Tech Stack
 
@@ -37,6 +34,7 @@ A sleek and minimal React project built with **Vite**, styled using **Tailwind C
 
 - [`@vitejs/plugin-react`](https://github.com/vitejs/vite-plugin-react): Uses **Babel** for Fast Refresh
 - [`@vitejs/plugin-react-swc`](https://github.com/vitejs/vite-plugin-react/tree/main/packages/plugin-react-swc): Uses **SWC** for faster builds
+- [`@tailwindcss/vite`](https://tailwindcss.com/): Uses css styling in DOM
 
 
 
