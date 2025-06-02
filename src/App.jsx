@@ -6,16 +6,13 @@ import './App.css'
 import { Button } from "@/components/ui/button"
 
 function App() {
-
-
   return (
-    <>
-
-
-
-
-      </>
-  )
+    <div className="flex items-center justify-center h-screen bg-gray-100">
+      <div className="text-9xl text-center text-blue-600">
+        hello world 😊👌
+      </div>
+    </div>
+  );
 }
 
-export default App
+export default App;
