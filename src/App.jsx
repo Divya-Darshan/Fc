@@ -8,8 +8,8 @@ import { Button } from "@/components/ui/button"
 function App() {
   return (
     <div className="flex items-center justify-center h-screen bg-gray-100">
-      <div className="text-9xl text-center text-blue-600">
-        hello world 😊👌
+      <div className="text-9xl text-center text-black-600 text-bold">
+        hello Hacker📱
       </div>
     </div>
   );
