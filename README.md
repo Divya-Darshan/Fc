@@ -42,9 +42,6 @@ A sleek and minimal React project built with **Vite**, styled using **Tailwind C
 
 ```bash
 
-# Install dependencies
-npm i
-
 # Start dev server
 npm run dev
 
